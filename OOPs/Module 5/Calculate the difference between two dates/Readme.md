@@ -12,5 +12,6 @@ This practical challenge reinforces key concepts from the date manipulation lab 
 - Validating user input dates
 - Calculating differences between dates
 - Adding or subtracting time periods from dates
+- 
 
 
